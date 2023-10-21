@@ -1,0 +1,6 @@
+        A 
+      C B 
+    F E D 
+  J I H G 
+O N M L K 
+J N 
